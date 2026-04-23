@@ -1,0 +1,14 @@
+{
+  "name": "line-sales-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "mssql": "^10.0.0",
+    "node-cron": "^3.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
